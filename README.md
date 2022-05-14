@@ -8,5 +8,5 @@
 
 - Tarea 1
 - - Descripción
-- - Codigo
+- - Código
 
