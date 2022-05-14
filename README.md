@@ -6,7 +6,7 @@
 
 ## Etapa 1: Análisis de texto
 
-- Tarea 1:
+- **Tarea 1:**
   - Descripción
   - Código
 
