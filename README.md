@@ -9,5 +9,6 @@ El **Análisis de Texto** es el proceso de deducir significado a partir de texto
 
 - **Tarea 1:**
   - Descripción
-  - Código
+  - Código (Pt. 1)
+  - Código (Pt. 2)
 
