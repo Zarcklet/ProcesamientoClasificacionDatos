@@ -8,7 +8,7 @@
 El **Análisis de Texto** es el proceso de deducir significado a partir de texto y comunicaciones escritas (o datos no estructurados) con el fin de medir cosas como las opiniones del cliente, retroalimentación del usuario, comentarios sobre productos y mucho más.
 
 - **Tarea 1:**
-  - Descripción
+  - [Descripción](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%201%20(Leobardo%20Garc%C3%ADa%20Reyes).pdf)
   - Código (Pt. 1)
   - Código (Pt. 2)
 
