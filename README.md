@@ -9,6 +9,6 @@ El **Análisis de Texto** es el proceso de deducir significado a partir de texto
 
 - **Tarea 1:**
   - [Descripción](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%201%20(Leobardo%20Garc%C3%ADa%20Reyes).pdf)
-  - Código (Pt. 1)
-  - Código (Pt. 2)
+  - [Código (Pt. 1)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%201.%20An%C3%A1lisis%20de%20la%20descripci%C3%B3n%20de%20productos%20audiovisuales%20en%20la%20plataforma%20de%20Netflix%20(Pt1).ipynb)
+  - [Código (Pt. 2)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%201.%20An%C3%A1lisis%20de%20la%20descripci%C3%B3n%20de%20productos%20audiovisuales%20en%20la%20plataforma%20de%20Netflix%20(Pt2).ipynb)
 
