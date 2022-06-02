@@ -27,9 +27,9 @@ El **Análisis de Sentimiento**, es una de las tareas de procesamiento del lengu
 La **Clasificación de Textos** es una de las aplicaciones del Machine Learning y consiste en catalogar textos en función de su contenido, es decir, realizar un análisis de las palabras para decidir qué tipo de texto es el que se está identificando.
 
 - **Tarea 3:**
-  - [Descripción](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%202%20(Leobardo%20Garc%C3%ADa%20Reyes).pdf)
-  - [Código](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%202.%20An%C3%A1lisis%20de%20sentimiento%20de%20tweets%20realizados%20con%20el%20hashtag%20TheSocialDilemma.ipynb)
-
+  - [Descripción](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%203%20(Leobardo%20Garc%C3%ADa%20Reyes).pdf)
+  - [Código (Pt. 1)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%203.%20Clasificaci%C3%B3n%20de%20ciberbullying.ipynb)
+  - [Código (Pt. 2)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%203.%20Clasificaci%C3%B3n%20de%20ciberbullying%20(Gr%C3%A1fico).ipynb)
 
 
 
