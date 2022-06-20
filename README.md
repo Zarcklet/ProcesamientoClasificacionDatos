@@ -9,11 +9,11 @@
 
 
 ## **Imágenes**
-- [Clasificación de Imágenes](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/tree/main/ClasificacionTexto)
+- [Clasificación de Imágenes](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/tree/main/ClasificacionImagenes)
 
 
 ## **Audio**
-- [Clasificación de Audio](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/tree/main/ClasificacionTexto)
+- [Clasificación de Audio](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/tree/main/ClasificacionAudio)
 
 
 
