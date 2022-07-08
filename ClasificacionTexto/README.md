@@ -26,7 +26,7 @@ La **Clasificación de Textos** es una de las aplicaciones del Machine Learning 
   - [Código (Pt. 2)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/Tarea%203.%20Clasificaci%C3%B3n%20de%20ciberbullying%20(Gr%C3%A1fico).ipynb)
 
 
-## Mini-proyecto 1
+## Mini-proyecto 1 - Clasificación de tweets misóginos y no misóginos
 - [Presentación](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionTexto/Clasificaci%C3%B3n%20de%20tweets%20mis%C3%B3ginos%20y%20no%20mis%C3%B3ginos.pdf)
 - [Código (Obtención de tweets)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionTexto/Obtenci%C3%B3n%20de%20tweets.ipynb)
 - [Código (Misocorpus)](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionTexto/Clasificaci%C3%B3n%20tweets%20misoginos%20(Misocorpus).ipynb)
