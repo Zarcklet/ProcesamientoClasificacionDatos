@@ -4,7 +4,11 @@
 El **Análisis de Imágenes**, es el procesamiento de imágenes digitales consiste en varias técnicas y métodos que incluyen la manipulacion de imágenes a computadora. Una imagen se guarda como un mosaico de pequeños cuadros a los que llamamos píxeles.
 
 - **Tarea 5:**
-  - [Código VGG16](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20VGG16.ipynb)
+  - [Código](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%205.%20An%C3%A1lisis%20de%20Im%C3%A1genes.ipynb)
+  - [Flor](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/DSC_0039.JPG)
+  - [Edificio](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/IMG_0602.JPG)
+  - [Budo](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Budo%20Fondo.jpg)
+  - [Gatos techo](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/DSC_0118.JPG)
 
 
 ## Etapa 2: Redes Convulocionales
