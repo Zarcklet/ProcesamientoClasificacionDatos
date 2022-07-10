@@ -3,16 +3,24 @@
 ## Etapa 1: Transfer Learning
 El **Transfer Learning**, cuando hablamos de transfer learning nos referimos al proceso de entrenamiento de un modelo en un problema relacionado con otro modelo. La manera en que funciona es cuando tomamos los pesos ya entrenados de una arquitectura de red neuronal que fue entrenada con una gran cantidad de imagenes.
 
-- **Tarea 1:**
+- **Tarea 5:**
   - [Código VGG16](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20VGG16.ipynb)
-  - {Código DenseNet169](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20DenseNet169.ipynb)
+  - [Código DenseNet169](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20DenseNet169.ipynb)
 
 
 ## Etapa 2: Redes Convulocionales
 Las **Redes Convulocionales**, es uno de los componentes clave de la mayoría de las aplicaciones de visión artificial basadas en el aprendizaje profundo es la red neuronal convolucional (CNN). Inventadas en la década de 1980 por el pionero del aprendizaje profundo Yann LeCun, las CNN son un tipo de red neuronal que es eficiente para capturar patrones en espacios multidimensionales. Esto hace que las CNN sean especialmente buenas para imágenes, aunque también se usan para procesar otros tipos de datos.
 
-- **Tarea 2:**
+- **Tarea 6:**
   - [Código](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%206.%20Redes%20Convolucionales.ipynb)
+
+
+## Etapa 3: Transfer Learning
+El **Transfer Learning**, cuando hablamos de transfer learning nos referimos al proceso de entrenamiento de un modelo en un problema relacionado con otro modelo. La manera en que funciona es cuando tomamos los pesos ya entrenados de una arquitectura de red neuronal que fue entrenada con una gran cantidad de imagenes.
+
+- **Tarea 7:**
+  - [Código VGG16](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20VGG16.ipynb)
+  - [Código DenseNet169](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/blob/main/ClasificacionImagenes/Tarea%207.%20Transfer%20Learning%20DenseNet169.ipynb)
 
 
 ## Mini-proyecto 2 - Clasificación de imágenes de mamografía
