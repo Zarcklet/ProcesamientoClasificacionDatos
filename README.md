@@ -2,8 +2,6 @@
 
 **Nombre:** Leobardo García Reyes
 
-**Matrícula:** 1616825
-
 ## **Texto**
 - [Clasificación de Texto](https://github.com/Zarcklet/ProcesamientoClasificacionDatos/tree/main/ClasificacionTexto)
 
